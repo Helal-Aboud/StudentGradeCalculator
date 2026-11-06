@@ -10,6 +10,9 @@ string studentName = "Ahmad";
 
 double average = calculateAverage(grade1, grade2, grade3);
 
+12345;
+helal
+
 Console.WriteLine($"Student: {studentName} ");
 Console.WriteLine($"Grade 1: {grade1}");
 Console.WriteLine($"Grade 2: {grade2}");
