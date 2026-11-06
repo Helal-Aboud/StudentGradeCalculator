@@ -18,4 +18,5 @@ Console.WriteLine($"Grade 1: {grade1}");
 Console.WriteLine($"Grade 2: {grade2}");
 Console.WriteLine($"Grade 3: {grade3}");
 Console.WriteLine($"Average: {average}");
-111111111
+
+123456
