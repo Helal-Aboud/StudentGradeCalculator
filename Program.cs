@@ -18,3 +18,4 @@ Console.WriteLine($"Average: {average}");
 Console.WriteLine($"Helal: {average}");
 Console.WriteLine($"Ali: {average}");
 Console.WriteLine($"Mohammed: {average}");
+//Password is added by wrong .
