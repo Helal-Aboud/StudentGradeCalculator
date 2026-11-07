@@ -17,3 +17,4 @@ Console.WriteLine($"Grade 3: {grade3}");
 Console.WriteLine($"Average: {average}");
 Console.WriteLine($"Helal: {average}");
 Console.WriteLine($"Ali: {average}");
+Console.WriteLine($"Mohammed: {average}");
